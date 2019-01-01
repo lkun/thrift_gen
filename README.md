@@ -1,0 +1,2 @@
+# thrift_gen
+thrift_gen,通过idea增加thrift插件，来编写thrift文件和生成相关代码
