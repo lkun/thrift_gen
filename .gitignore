@@ -1,0 +1,13 @@
+.settings
+.classpath
+.project
+target
+WebContent
+.idea
+velocity.log
+.DS_Store
+*.iml
+.iml
+logs
+out
+output
